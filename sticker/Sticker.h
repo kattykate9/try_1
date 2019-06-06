@@ -1,6 +1,6 @@
 #pragma once
 
-const int N = 5;
+const int N = 3;
 using namespace std;
 
 class sticker
